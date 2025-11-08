@@ -1,0 +1,10 @@
+# --------------------------------------------------------
+# docker-compose.example.yml (demo only; local testing)
+# Do NOT expose these ports to the internet.
+# --------------------------------------------------------
+services:
+  cfo_flask_rag_demo:
+    build: .
+    container_name: cfo-flask-rag-demo
+    ports:
+      - "8002:8002"  # local access only

@@ -1,0 +1,14 @@
+# -------------------------------------------------------
+# requirements.txt
+# -------------------------------------------------------
+# Purpose Summary:
+#   - Pinned dependencies for the public Flask RAG demo.
+#   - Minimal surface; no private SDKs or provider integrations.
+# Audit:
+#   - All packages pinned by exact version.
+# -------------------------------------------------------
+Flask==2.3.3
+gunicorn==20.1.0
+requests==2.31.0
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
