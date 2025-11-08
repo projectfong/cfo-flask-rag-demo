@@ -1,7 +1,7 @@
 # NOTICE
 
-Author: projectfong
-Copyright (c) 2025 Fong
+Author: projectfong  
+Copyright (c) 2025 Fong  
 All Rights Reserved
 
 ## Summary
@@ -26,4 +26,5 @@ This repository is not a product, managed service, or compliance artifact. It sh
 | Version | Date       | Summary                     |
 |---------|------------|-----------------------------|
 | 1.0.0   | 2025-11-08 | Initial public demo notice. |
+
 
